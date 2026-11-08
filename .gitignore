@@ -1,0 +1,22 @@
+# Entorno
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+
+# Datos generados (se recrean con scripts/setup_demo.py)
+data/processed/*
+!data/processed/.gitkeep
+data/raw/*
+!data/raw/.gitkeep
+*.db
+*.db-journal
+
+# Editor / SO
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+.claude/settings.local.json

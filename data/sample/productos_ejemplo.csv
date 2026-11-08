@@ -1,0 +1,7 @@
+﻿SKU,Nombre Producto,Categoría,Unidad,Precio Lista,Costo Unitario,Stock Minimo,Proveedor
+IMP-SKU-001,Agua con gas 600 ml,bebidas ,UND,1.900,1.400,50,DEMO-PRV-02
+IMP-SKU-002,Esponja multiuso x3,ASEO DEL HOGAR,PAQ,4.200,3.000,30,DEMO-PRV-03
+IMP-SKU-003,Alimento para gato 1 kg,mascotas,UND,18.900,14.200,20,
+IMP-SKU-004,Galletas de soda x9,Snacks y confiteria,PAQ,5.600,-4.100,25,DEMO-PRV-05
+IMP-SKU-005,Servilletas cocteleras x100,Desechables,PAQ,3.300,2.400,,DEMO-PRV-99
+IMP-SKU-001,Agua con gas 600 ml,Bebidas,UND,1.900,1.400,50,DEMO-PRV-02

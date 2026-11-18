@@ -7,6 +7,9 @@ reportes para tomar decisiones.
 > **Todos los datos incluidos son sintéticos (DEMO)** y corresponden a una distribuidora ficticia,
 > *Distribuidora Andina DEMO S.A.S.* No representan a ninguna empresa real.
 
+**Vista en línea (sin instalar nada):** https://dcenteno-proof.github.io/colombia-business-intelligence-hub/
+— se regenera con `.venv\Scripts\python scripts\build_showcase.py`.
+
 ---
 
 ## Problema que resuelve
